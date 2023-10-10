@@ -1,0 +1,45 @@
+
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .user h2 {
+    font-size: 1.2rem;
+  }
+  
+  .user p {
+    margin: 5px 0;
+  }
+  
+  .user-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+.update{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.delete{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+}
+.adding{
+  background-color: black;
+  color: azure;
+  height: 30px;
+  border: none;
+  border-radius: 15px;
+
+}
